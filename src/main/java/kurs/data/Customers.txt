@@ -1,0 +1,11 @@
+id, name, tier
+1, Stefan Walker, 1
+2, Daija Von, 1
+3, Ariane Rodriguez, 1
+4, Marques Nikolaus, 2
+5, Rachelle Greenfelder, 0
+6, Larissa White, 2
+7, Fae Heidenreich, 1
+8, Dino Will, 2
+9, Eloy Stroman, 1
+10, Brisa OConnell, 1
